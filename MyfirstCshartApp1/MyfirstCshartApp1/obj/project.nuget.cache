@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "gHsrTVsFyUFvP+1oTbA/zo/Fa3dIQRIzz9c1iijOAG/FNGRd7kpf5EH3h50HQaUEWa3uMf6nG+pLu50jYg4TTw==",
+  "success": true,
+  "projectFilePath": "F:\\coding\\Csharp-tutorial\\MyfirstCshartApp1\\MyfirstCshartApp1\\MyfirstCshartApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALunCHF\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\ALunCHF\\.nuget\\packages\\presentationframework\\4.6.0\\presentationframework.4.6.0.nupkg.sha512",
+    "C:\\Users\\ALunCHF\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\ALunCHF\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\ALunCHF\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\ALunCHF\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ALunCHF\\.nuget\\packages\\windowsbase_core.stw\\4.0.30319.1\\windowsbase_core.stw.4.0.30319.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“net6.0-windows7.0”还原包“PresentationFramework 4.6.0”。此包可能与项目不完全兼容。",
+      "libraryId": "PresentationFramework",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“net6.0-windows7.0”还原包“WindowsBase_Core.STW 4.0.30319.1”。此包可能与项目不完全兼容。",
+      "libraryId": "WindowsBase_Core.STW",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
