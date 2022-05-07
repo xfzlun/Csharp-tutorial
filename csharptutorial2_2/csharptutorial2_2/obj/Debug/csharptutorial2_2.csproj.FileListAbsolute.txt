@@ -1,0 +1,16 @@
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\bin\Debug\csharptutorial2_2.exe.config
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\bin\Debug\csharptutorial2_2.exe
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\bin\Debug\csharptutorial2_2.pdb
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\obj\Debug\csharptutorial2_2.csproj.AssemblyReference.cache
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\obj\Debug\csharptutorial2_2.csproj.SuggestedBindingRedirects.cache
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\obj\Debug\MainWindow.g.cs
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\obj\Debug\App.g.cs
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\obj\Debug\csharptutorial2_2_MarkupCompile.cache
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\obj\Debug\csharptutorial2_2_MarkupCompile.lref
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\obj\Debug\MainWindow.baml
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\obj\Debug\csharptutorial2_2.g.resources
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\obj\Debug\csharptutorial2_2.Properties.Resources.resources
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\obj\Debug\csharptutorial2_2.csproj.GenerateResource.cache
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\obj\Debug\csharptutorial2_2.csproj.CoreCompileInputs.cache
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\obj\Debug\csharptutorial2_2.exe
+F:\MyJob\Coding\Csharp-tutorial\csharptutorial2_2\csharptutorial2_2\obj\Debug\csharptutorial2_2.pdb

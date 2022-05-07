@@ -1,0 +1,8 @@
+F:\MyJob\Coding\testcsharp\getsysteminformation\getsysteminformation\bin\Debug\getsysteminformation.exe.config
+F:\MyJob\Coding\testcsharp\getsysteminformation\getsysteminformation\bin\Debug\getsysteminformation.exe
+F:\MyJob\Coding\testcsharp\getsysteminformation\getsysteminformation\bin\Debug\getsysteminformation.pdb
+F:\MyJob\Coding\testcsharp\getsysteminformation\getsysteminformation\obj\Debug\getsysteminformation.csproj.AssemblyReference.cache
+F:\MyJob\Coding\testcsharp\getsysteminformation\getsysteminformation\obj\Debug\getsysteminformation.csproj.SuggestedBindingRedirects.cache
+F:\MyJob\Coding\testcsharp\getsysteminformation\getsysteminformation\obj\Debug\getsysteminformation.csproj.CoreCompileInputs.cache
+F:\MyJob\Coding\testcsharp\getsysteminformation\getsysteminformation\obj\Debug\getsysteminformation.exe
+F:\MyJob\Coding\testcsharp\getsysteminformation\getsysteminformation\obj\Debug\getsysteminformation.pdb

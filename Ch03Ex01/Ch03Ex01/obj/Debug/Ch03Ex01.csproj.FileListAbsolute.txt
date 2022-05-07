@@ -1,0 +1,8 @@
+F:\MyJob\Coding\Csharp-tutorial\Ch03Ex01\Ch03Ex01\bin\Debug\Ch03Ex01.exe.config
+F:\MyJob\Coding\Csharp-tutorial\Ch03Ex01\Ch03Ex01\bin\Debug\Ch03Ex01.exe
+F:\MyJob\Coding\Csharp-tutorial\Ch03Ex01\Ch03Ex01\bin\Debug\Ch03Ex01.pdb
+F:\MyJob\Coding\Csharp-tutorial\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.csproj.AssemblyReference.cache
+F:\MyJob\Coding\Csharp-tutorial\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.csproj.SuggestedBindingRedirects.cache
+F:\MyJob\Coding\Csharp-tutorial\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.csproj.CoreCompileInputs.cache
+F:\MyJob\Coding\Csharp-tutorial\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.exe
+F:\MyJob\Coding\Csharp-tutorial\Ch03Ex01\Ch03Ex01\obj\Debug\Ch03Ex01.pdb

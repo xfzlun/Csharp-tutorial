@@ -1,0 +1,12 @@
+F:\MyJob\Coding\Csharp-tutorial\windowapptutorial\windowapptutorial\bin\Debug\windowapptutorial.exe.config
+F:\MyJob\Coding\Csharp-tutorial\windowapptutorial\windowapptutorial\bin\Debug\windowapptutorial.exe
+F:\MyJob\Coding\Csharp-tutorial\windowapptutorial\windowapptutorial\bin\Debug\windowapptutorial.pdb
+F:\MyJob\Coding\Csharp-tutorial\windowapptutorial\windowapptutorial\obj\Debug\windowapptutorial.csproj.AssemblyReference.cache
+F:\MyJob\Coding\Csharp-tutorial\windowapptutorial\windowapptutorial\obj\Debug\windowapptutorial.csproj.SuggestedBindingRedirects.cache
+F:\MyJob\Coding\Csharp-tutorial\windowapptutorial\windowapptutorial\obj\Debug\windowapptutorial.Form1.resources
+F:\MyJob\Coding\Csharp-tutorial\windowapptutorial\windowapptutorial\obj\Debug\windowapptutorial.Properties.Resources.resources
+F:\MyJob\Coding\Csharp-tutorial\windowapptutorial\windowapptutorial\obj\Debug\windowapptutorial.csproj.GenerateResource.cache
+F:\MyJob\Coding\Csharp-tutorial\windowapptutorial\windowapptutorial\obj\Debug\windowapptutorial.csproj.CoreCompileInputs.cache
+F:\MyJob\Coding\Csharp-tutorial\windowapptutorial\windowapptutorial\obj\Debug\windowapptutorial.exe
+F:\MyJob\Coding\Csharp-tutorial\windowapptutorial\windowapptutorial\obj\Debug\windowapptutorial.pdb
+F:\MyJob\Coding\Csharp-tutorial\windowapptutorial\windowapptutorial\obj\Debug\windowapptutorial.Form2.resources
